@@ -22,3 +22,8 @@ I thing that I forgot to comment in the video was that build "first-project\buil
 # Component creating
 
 I created and used a component as I explained [in this video](https://youtu.be/HBlFcto9LiU).
+
+
+# Component lifecycle
+
+![component lifecycle](images/component-lifecycle.png)
