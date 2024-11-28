@@ -9,3 +9,11 @@ I generated a project with the command `npx create-react-app` first project and 
 In [this video](https://youtu.be/QN-DKvbE94Y) I comment the generated content.
 
 I thing that I forgot to comment in the video was that build "first-project\build" directory was generated with the command `npm run build`.
+
+
+
+# Class component x function component
+
+![class component](images/class-component.png)
+
+![funciton component](images/function-component.png)
