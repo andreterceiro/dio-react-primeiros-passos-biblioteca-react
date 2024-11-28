@@ -17,3 +17,8 @@ I thing that I forgot to comment in the video was that build "first-project\buil
 ![class component](images/class-component.png)
 
 ![funciton component](images/function-component.png)
+
+
+# Component creating
+
+I created and used a component as I explained [in this video](https://youtu.be/HBlFcto9LiU).
