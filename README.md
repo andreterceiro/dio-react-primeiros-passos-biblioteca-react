@@ -27,3 +27,5 @@ I created and used a component as I explained [in this video](https://youtu.be/H
 # Component lifecycle
 
 ![component lifecycle](images/component-lifecycle.png)
+
+Teacher explained that when a component is rendered, its sons was rendered too.
